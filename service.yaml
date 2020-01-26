@@ -9,6 +9,6 @@ spec:
   ports:
     - name: app-port
       targetPort: app-port
-      port: 3000
+      port: 3001
   selector:
     app: shipping-service
