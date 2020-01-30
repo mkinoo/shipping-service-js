@@ -1,6 +1,6 @@
 ---
 applications:
-  - name: shipping-service-js-XX
+  - name: shipping-service-js-2
     memory: 256M
     instances: 1
     env:
